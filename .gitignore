@@ -76,18 +76,7 @@ target/
 .ipynb_checkpoints/
 
 # Data
-/data/external/new_x_test.csv
-/data/external/new_y_test.csv
-/data/interim/x_test.csv
-/data/interim/x_train.csv
-/data/interim/y_test.csv
-/data/interim/y_train.csv
-/data/predicted/predicted.csv
-/data/processed/x_test.csv
-/data/processed/x_train.csv
-/data/processed/y_test.csv
-/data/processed/y_train.csv
-/data/raw/train.csv
+/data/
 
 # Mac OS-specific storage files
 .DS_Store
